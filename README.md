@@ -1,0 +1,3 @@
+-- Esse projeto tem como objetivo concluir as atividades dadas pela professora Vi**** de banco de dados.
+-- Estou simplesmente testando como funciona o github. Será que eu deveria olhar um tutorial ou esperar a aula de git, ao invés de queimar a largada por conta de curiosidade na plataforma?
+-- Bebam água.
